@@ -36,7 +36,7 @@ period and showing wich brand is most volatile and loss and profit making. detai
 
 [Pradeep Chaure] – Data Analyst | Power BI Enthusiast
 
-Example : 
+Example : https://github.com/PradeepRChaure/Stock-Analysis/blob/main/Screenshot%202025-07-25%20095851.png
 
 
 
